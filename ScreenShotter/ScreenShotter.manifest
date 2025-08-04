@@ -1,0 +1,11 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "author": "joshua maruska",
+    "description": {
+        "": "An Add-in to launch the Fusion Screen Capture utility"
+    },
+    "version": "0.1.0",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac"
+}
